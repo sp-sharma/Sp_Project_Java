@@ -42,7 +42,7 @@ public class Main {
                 System.out.println("3. Show all data");
                 System.out.println("4. Update data in table");
                 System.out.println("5. Delete data from table");
-                System.out.print("Choose number from 1 to 10 : ");
+                System.out.print("Choose number from 1 to 5 : ");
                 choose = scanner.nextInt();
                 if (choose == 0){
                     System.out.println("Database is connected!!!");
